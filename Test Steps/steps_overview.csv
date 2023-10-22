@@ -1,0 +1,12 @@
+Flow ID,Test Steps,Flow Priority
+1,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink product apple iphone new --> navigate to Page product apple-iphone-15-new
+step 3: At Page product apple-iphone-15-new click on label object
+step 4: At Page product apple-iphone-15-new click on label object
+step 5: At Page product apple-iphone-15-new click on button object
+step 6: At Page product apple-iphone-15-new click on hyperlink cart --> navigate to Page cart
+step 7: At Page cart click on button object --> navigate to Page checkout info
+step 8: At Page checkout info input on input object
+step 9: At Page checkout info click on input object
+step 10: At Page checkout info click on button object --> navigate to Page checkout shipping-address
+step 11: Add visual checkpoint at Page checkout shipping-address",High
